@@ -7,7 +7,7 @@ author: |
 institute: |
 	\inst{1}RUDN University, Moscow, Russian Federation
 	
-date:   13 мая, 2022 Москва 
+date:   19 мая, 2022 Москва 
 ## Formatting
 toc: false
 slide_level: 2
